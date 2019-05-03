@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jogo_figuras</string>
+    <string name="start">If you want to play  hit de start button</string>
+    <string name="getReady">get ready...</string>
+    <string name="square">Touch the square</string>
+    <string name="circle">Touch the circle</string>
+    <string name="rectangle">Touch the rectangle</string>
+    <string name="triangle">Touch the triangle</string>
+</resources>
